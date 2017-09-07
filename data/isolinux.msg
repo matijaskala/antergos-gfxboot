@@ -1,11 +1,11 @@
 
-Welcome to Antergos !
+Welcome to Slontoo !
 
 To start the system input 'start' and press <Enter>
 
 
 Available boot options:
-start                    - Start Antergos Live System
+start                    - Start Slontoo Live System
 harddisk                 - Boot From Hard Disk
 multi                    - Non-Graphical Boot
 memtest                  - Run Memory Test

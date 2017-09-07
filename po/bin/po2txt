@@ -15,7 +15,7 @@ sub read_texts;
 sub join_msg;
 sub fribidi;
 
-$opt_product = "Antergos";
+$opt_product = "Slontoo";
 
 GetOptions(
   'product=s' => \$opt_product,

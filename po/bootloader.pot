@@ -1,6 +1,6 @@
 # LANGUAGE translations for boot loader
 # Copyright (C) 2005 SUSE Linux GmbH
-#               2013 The Antergos Project
+#               2013 The Slontoo Project
 #
 msgid ""
 msgstr ""
@@ -426,7 +426,7 @@ msgid "Live System (GNOME)"
 msgstr ""
 
 #. txt_start
-msgid "Start Antergos Live"
+msgid "Start Slontoo Live"
 msgstr ""
 
 #. txt_nonfree

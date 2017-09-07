@@ -1,10 +1,5 @@
 This GFXBoot theme is based on openSUSE's GFXBoot implementation,
-thus it is released under the same license therms.
-
-The Artwork is licensed under the Creative Commons -by ND
-http://creativecommons.org/licenses/by-nd/2.0/
-YOU ARE NOT ALLOWED TO CREATE DERIVARIONS FROM THIS ARTWORK
-WITHOUT ASKING THE ORIGINAL CREATOR.
+thus it is released under the same license terms.
 
 Chakra modifications by 
 

@@ -1,6 +1,6 @@
 # LANGUAGE translations for boot loader
 # Copyright (C) 2005 SUSE Linux GmbH
-#               2013 The Antergos Project
+#               2013 The Slontoo Project
 # 
 # Translators:
 # , 2004
@@ -8,10 +8,10 @@
 # Dušan Kazik <prescott66@gmail.com>, 2015-2016
 msgid ""
 msgstr ""
-"Project-Id-Version: Antergos\n"
+"Project-Id-Version: Slontoo\n"
 "PO-Revision-Date: 2016-01-26 11:00+0000\n"
 "Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
-"Language-Team: Slovak (http://www.transifex.com/faidoc/antergos/language/sk/)\n"
+"Language-Team: Slovak (http://www.transifex.com/faidoc/slontoo/language/sk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -434,8 +434,8 @@ msgid "Live System (GNOME)"
 msgstr "Live systém (GNOME)"
 
 #. txt_start
-msgid "Start Antergos Live"
-msgstr "Spustiť systém Antergos Live"
+msgid "Start Slontoo Live"
+msgstr "Spustiť systém Slontoo Live"
 
 #. txt_nonfree
 msgid "Start (non-free drivers)"
